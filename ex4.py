@@ -6,7 +6,7 @@ v3=float(input("Digite um valor"))
 # comentários no código
 media=(v1+v2+v3)/3
 print(f"A média entre {v1}, {v2} e {v3} é {media}")
-print("teste")
+
 
 
 
